@@ -1,0 +1,140 @@
+[
+  {
+    "id": "sw-01",
+    "src": "gallery/student-works/5251591800450307590.jpg",
+    "caption": "Работа ученика",
+    "category": "student-works"
+  },
+  {
+    "id": "sw-02",
+    "src": "gallery/student-works/5251591800450307593.jpg",
+    "caption": "Работа ученика",
+    "category": "student-works"
+  },
+  {
+    "id": "sw-03",
+    "src": "gallery/student-works/5251591800450307595.jpg",
+    "caption": "Работа ученика",
+    "category": "student-works"
+  },
+  {
+    "id": "sw-04",
+    "src": "gallery/student-works/5402578141634563239.jpg",
+    "caption": "Работа ученика",
+    "category": "student-works"
+  },
+  {
+    "id": "sw-05",
+    "src": "gallery/student-works/5402578141634563240.jpg",
+    "caption": "Работа ученика",
+    "category": "student-works"
+  },
+  {
+    "id": "sw-06",
+    "src": "gallery/student-works/5402578141634563241.jpg",
+    "caption": "Работа ученика",
+    "category": "student-works"
+  },
+  {
+    "id": "sw-07",
+    "src": "gallery/student-works/5402578141634563243.jpg",
+    "caption": "Работа ученика",
+    "category": "student-works"
+  },
+  {
+    "id": "sw-08",
+    "src": "gallery/student-works/5402578141634563244.jpg",
+    "caption": "Работа ученика",
+    "category": "student-works"
+  },
+  {
+    "id": "sw-09",
+    "src": "gallery/student-works/5402578141634563245.jpg",
+    "caption": "Работа ученика",
+    "category": "student-works"
+  },
+  {
+    "id": "sw-10",
+    "src": "gallery/student-works/5447463878473672808.jpg",
+    "caption": "Работа ученика",
+    "category": "student-works"
+  },
+  {
+    "id": "sw-11",
+    "src": "gallery/student-works/5447463878473672810.jpg",
+    "caption": "Работа ученика",
+    "category": "student-works"
+  },
+  {
+    "id": "sw-12",
+    "src": "gallery/student-works/5447463878473672811.jpg",
+    "caption": "Работа ученика",
+    "category": "student-works"
+  },
+  {
+    "id": "sw-13",
+    "src": "gallery/student-works/5447463878473672813.jpg",
+    "caption": "Работа ученика",
+    "category": "student-works"
+  },
+  {
+    "id": "sw-14",
+    "src": "gallery/student-works/5456119496000526154.jpg",
+    "caption": "Работа ученика",
+    "category": "student-works"
+  },
+  {
+    "id": "st-01",
+    "src": "gallery/studio/5301047554298548233.jpg",
+    "caption": "Наша студия",
+    "category": "studio"
+  },
+  {
+    "id": "st-02",
+    "src": "gallery/studio/5305372156865139307.jpg",
+    "caption": "Наша студия",
+    "category": "studio"
+  },
+  {
+    "id": "st-03",
+    "src": "gallery/studio/5312188802539840692.jpg",
+    "caption": "Наша студия",
+    "category": "studio"
+  },
+  {
+    "id": "st-04",
+    "src": "gallery/studio/5353020025830765597.jpg",
+    "caption": "Наша студия",
+    "category": "studio"
+  },
+  {
+    "id": "st-05",
+    "src": "gallery/studio/5424660153342486519.jpg",
+    "caption": "Наша студия",
+    "category": "studio"
+  },
+  {
+    "id": "st-06",
+    "src": "gallery/studio/5427339624528416423.jpg",
+    "caption": "Наша студия",
+    "category": "studio"
+  },
+  {
+    "id": "st-07",
+    "src": "gallery/studio/5465670038682993235.jpg",
+    "caption": "Наша студия",
+    "category": "studio"
+  },
+  {
+    "id": "st-08",
+    "src": "gallery/studio/5472054864050781278.jpg",
+    "caption": "Наша студия",
+    "category": "studio"
+  },
+  {
+    "id": "st-09",
+    "src": "gallery/studio/5472054864050781279.jpg",
+    "caption": "Наша студия",
+    "category": "studio"
+  }
+]
